@@ -31,7 +31,10 @@
 - A digital painting of a futuristic city with flying cars, unreal engine .
 - A majestic lion standing on a cliff at sunrise, 8k and soft focus .
 - A heroic anime character with a sword, standing on a mountain, Pixiv .
-- 
+- A dragon flying over a medieval castle, glowing in iridescent gold.
+- A futuristic city at night with glowing neon lights in silver .
+- A glowing castle in a stormy sky, rendered in hyperrealism , ArtStation .
+- A fantasy castle floating in the clouds, in pastel pink , depicted as a watercolor painting .
 
 - ![image](https://github.com/user-attachments/assets/310bd9f4-5043-4d8a-a19c-c1a29be1949b)
 - ![image](https://github.com/user-attachments/assets/dd681eae-820f-428c-9697-c9b08d6183b2)
@@ -65,26 +68,35 @@
 -  ![image](https://github.com/user-attachments/assets/9b5f2e30-9937-46ed-94e9-aa92d83c604d)
 -  ![image](https://github.com/user-attachments/assets/d1baee7f-bbe0-489b-bd36-0dd4d27dd801)
 -  ![image](https://github.com/user-attachments/assets/780fa83d-8d7f-42dd-9eda-b880faed319f)
-
-
--  
-
-
-
-
-
-
-
-
-
-
-
-
-
+-  ![image](https://github.com/user-attachments/assets/7fb5dc2f-00c5-4946-a26f-4ece57cc602c)
+-  ![image](https://github.com/user-attachments/assets/b4a66c84-be5b-4c5a-af1e-33b8afbc1a45)
+-  ![image](https://github.com/user-attachments/assets/2af4bec4-c209-456a-87ad-9b2022073e88)
+-  ![image](https://github.com/user-attachments/assets/783f5ae1-635c-4b14-bd21-ea2eb4e20e7a)
+-  ![image](https://github.com/user-attachments/assets/fe768d1f-1c41-43d8-82ed-7540f02df8fc)
+-  ![image](https://github.com/user-attachments/assets/a0edaa63-bef6-46ec-aa0c-813bf02f8409)
+-  ![image](https://github.com/user-attachments/assets/09ac0d8f-d816-4fc7-b116-bb267f65b915)
+-  ![image](https://github.com/user-attachments/assets/0e30ef3f-2e44-4670-9504-d18395e55171)
+-  ![image](https://github.com/user-attachments/assets/f0efe25e-a7f0-464d-bf33-926f2d94d796)
+-  ![image](https://github.com/user-attachments/assets/af8b3f5d-8f3f-48e4-9e6f-ce6d6ad1ffa4)
+-  ![image](https://github.com/user-attachments/assets/e12fb5d6-fa5f-4e5f-b780-b9fcfae4d7b3)
+-  ![image](https://github.com/user-attachments/assets/65299e49-5225-48ec-a486-09dfea9101f8)
+![image](https://github.com/user-attachments/assets/18453260-e568-452f-96b7-a3c538f4d214)
 
 
 
-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

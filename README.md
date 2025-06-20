@@ -89,6 +89,24 @@
 ![image](https://github.com/user-attachments/assets/9099f425-f66b-41bb-835f-a752c73eb64e)
 ![image](https://github.com/user-attachments/assets/c75e2f22-b18c-4650-894c-e47d959df848)
 ![image](https://github.com/user-attachments/assets/17f8cf57-65bb-4329-b2e3-69704a843841)
+![image](https://github.com/user-attachments/assets/828f1e22-60c4-4b2f-b7f6-8849b277cc0a)
+![image](https://github.com/user-attachments/assets/21458951-c6fd-419d-a0fe-07d7ad030ba4)
+![image](https://github.com/user-attachments/assets/87b731f8-30b6-48d2-abf8-3a9b8fd85234)
+![image](https://github.com/user-attachments/assets/824231d1-7148-4743-b88c-66506cf12a1a)
+![image](https://github.com/user-attachments/assets/4ad58537-9c26-4c59-b6b0-383f7d7599b1)
+![image](https://github.com/user-attachments/assets/c0af181f-2ac5-404d-9482-442d4a0c12ca)
+![image](https://github.com/user-attachments/assets/45b91c7d-9462-42b3-8df4-9b856558c0c4)
+![image](https://github.com/user-attachments/assets/9df7ffd7-7c5c-4dba-8b65-7cee26b72f63)
+![image](https://github.com/user-attachments/assets/4f840cdb-9fba-4a98-b903-c8fa80acf28b)
+![image](https://github.com/user-attachments/assets/ec57c657-ab54-4f1f-8d0e-c1407088f71d)
+![image](https://github.com/user-attachments/assets/11924397-5b34-4982-91da-fd05b6889b9a)
+![image](https://github.com/user-attachments/assets/635d1fe5-e859-4fbf-8912-e5fb6ea04753)
+![image](https://github.com/user-attachments/assets/3f0c11f3-e354-4a16-a0c9-3451e94384d8)
+![image](https://github.com/user-attachments/assets/336bed3d-a09f-4cbb-bbf7-4af0cc90f08f)
+![image](https://github.com/user-attachments/assets/f8525888-b510-4972-9d2b-dfe71c54878d)
+![image](https://github.com/user-attachments/assets/7fb1f092-0ba0-48a9-a26f-02c86400fe3f)
+![image](https://github.com/user-attachments/assets/1604804f-bba1-4ab0-b6c7-388fd94a5ddf)
+
 
 
 
@@ -97,9 +115,16 @@
 
 ## Midjounry Prompts 
 
+prompt begin with  - - imagine
+
 - - - imagine Create an image of a superhero.
 - - - imagine Create an image of a superhero flying over a city .
 - - - imagine Create an image of a superhero wearing a red cape , flying over a city .
+-  imagine A superhero flying over a city with a red cape .
+- imagine forest in the style of watercolor painting --s 900 .
+-  imagine forest in the style of watercolor painting --style raw .
+-  imagine forest in the style of watercolor painting , with a bird's eye view.
+-  imagine a forest in the style of watercolor painting , with a bird's eye view and soft morning light.
 
 
 

@@ -83,6 +83,31 @@
 ![image](https://github.com/user-attachments/assets/18453260-e568-452f-96b7-a3c538f4d214)
 
 
+![image](https://github.com/user-attachments/assets/cf7b5737-1fb5-4453-9a8a-8bb4a65380b2)
+![image](https://github.com/user-attachments/assets/a16acc20-a13d-487f-885e-3758e8d4b497)
+![image](https://github.com/user-attachments/assets/385ac1cb-14fc-4975-8615-0c7840f2afb1)
+![image](https://github.com/user-attachments/assets/9099f425-f66b-41bb-835f-a752c73eb64e)
+![image](https://github.com/user-attachments/assets/c75e2f22-b18c-4650-894c-e47d959df848)
+![image](https://github.com/user-attachments/assets/17f8cf57-65bb-4329-b2e3-69704a843841)
+
+
+
+
+
+
+## Midjounry Prompts 
+
+- - - imagine Create an image of a superhero.
+- - - imagine Create an image of a superhero flying over a city .
+- - - imagine Create an image of a superhero wearing a red cape , flying over a city .
+
+
+
+
+
+
+
+
 
 
 

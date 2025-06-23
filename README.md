@@ -106,7 +106,37 @@
 ![image](https://github.com/user-attachments/assets/f8525888-b510-4972-9d2b-dfe71c54878d)
 ![image](https://github.com/user-attachments/assets/7fb1f092-0ba0-48a9-a26f-02c86400fe3f)
 ![image](https://github.com/user-attachments/assets/1604804f-bba1-4ab0-b6c7-388fd94a5ddf)
-
+![image](https://github.com/user-attachments/assets/5eea5184-cfbe-4299-be59-5ef3c6b46ac5)
+![image](https://github.com/user-attachments/assets/cb127e22-86a0-42c4-830f-4ae86f9768cd)
+![image](https://github.com/user-attachments/assets/432cd021-834a-4e69-9058-0bdf3f03ab5a)
+![image](https://github.com/user-attachments/assets/c98068a8-8291-4d83-913a-7cb3e196c847)
+![image](https://github.com/user-attachments/assets/5665abbe-7823-470c-82a8-50ea9f053e54)
+![image](https://github.com/user-attachments/assets/19acf4df-6aff-471e-8c88-d83f247ec71c)
+![image](https://github.com/user-attachments/assets/01a94310-9cdb-49d3-be6a-c8c956ce4de2)
+![image](https://github.com/user-attachments/assets/d26f4497-93a7-453d-863f-2020440b5912)
+![image](https://github.com/user-attachments/assets/0f957288-75d5-401c-bda8-e0632442006b)
+![image](https://github.com/user-attachments/assets/5529727a-f0b3-480f-8788-ddaba41ba3a8)
+![image](https://github.com/user-attachments/assets/5614cf14-cd6e-4696-bcc6-52b419e4a41a)
+![image](https://github.com/user-attachments/assets/70e3241c-983a-4dbb-90b2-88e40223227b)
+![image](https://github.com/user-attachments/assets/fbe85a27-653b-4cee-91bf-078821da5a98)
+![image](https://github.com/user-attachments/assets/b258a891-4bbb-4a49-b4a4-574cb384c5a4)
+![image](https://github.com/user-attachments/assets/220c4036-4c6f-4942-82ce-07fe54cd4829)
+![image](https://github.com/user-attachments/assets/39cc3ec0-54a9-48b0-8b22-b99afb4772e4)
+![image](https://github.com/user-attachments/assets/480d2c23-cacf-48b8-b0b2-8e4b1b5b6740)
+![image](https://github.com/user-attachments/assets/a80ccf1e-7549-4720-8d2f-51952f90c293)
+![image](https://github.com/user-attachments/assets/54a1af42-c63f-460c-a71d-814ec58c3826)
+![image](https://github.com/user-attachments/assets/3fc86918-01f2-4782-8725-355cae8683f0)
+![image](https://github.com/user-attachments/assets/a900626e-b633-4251-a8bf-2913b48418ad)
+![image](https://github.com/user-attachments/assets/e7945c21-098d-4145-a9c8-78ff28f897a4)
+![image](https://github.com/user-attachments/assets/ee0a1d65-f558-4d50-af1c-28fdcda6a695)
+![image](https://github.com/user-attachments/assets/dbe2a8c5-00fb-477d-b7bf-51ef47d98f23)
+![image](https://github.com/user-attachments/assets/364701ee-f5d2-4940-8d01-3aae71a9d4d9)
+![image](https://github.com/user-attachments/assets/38f7c1a6-896e-4ba3-80af-0eaf95e020f9)
+![image](https://github.com/user-attachments/assets/9bdd2832-0077-4411-b823-d239ed755f88)
+![image](https://github.com/user-attachments/assets/d5d831ff-9180-470b-865f-bcf761020b5e)
+![image](https://github.com/user-attachments/assets/8ad930bb-4ef1-4e9e-bd07-ecbc7f68c40b)
+![image](https://github.com/user-attachments/assets/e13b41b2-12b4-463e-ac8e-b6ceac292ca6)
+![image](https://github.com/user-attachments/assets/bb65290b-f695-45e2-8320-a11743ad4b43)
 
 
 
@@ -125,6 +155,15 @@ prompt begin with  - - imagine
 -  imagine forest in the style of watercolor painting --style raw .
 -  imagine forest in the style of watercolor painting , with a bird's eye view.
 -  imagine a forest in the style of watercolor painting , with a bird's eye view and soft morning light.
+-  imagine a woman with light coming from the right side .
+-  imagine a woman with dramatic shadows .
+-  imagine landscape in bright sunlight .
+-   imagine building with long shadows from the setting sun .
+-   imagine building using balance and symmetry .
+-   imagine garden with a vibrant flower as the focal point to direct the viewer’s gaze .
+-   Create a series of 5 artworks in the style of anime portraits focusing on color schemes , composition, and thematic elements.
+-   imagine anime portraits including elements like cartoonish backgrounds and red color palettes .
+-   Create a geometric pattern for fashion fabric .
 
 
 

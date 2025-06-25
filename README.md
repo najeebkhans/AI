@@ -252,6 +252,16 @@ prompt begin with  - - imagine
 
 
 
+# Earn from AI 
+
+![image](https://github.com/user-attachments/assets/ee206083-1035-4d34-9497-1e426aefec9c)
+![image](https://github.com/user-attachments/assets/b8583e32-c089-4b14-bad8-fb66ce5cae29)
+![image](https://github.com/user-attachments/assets/1f2f9ed3-e8ee-4c43-aa58-9c6d790fe2b8)
+![image](https://github.com/user-attachments/assets/23eca15f-4110-4c42-88e6-19a0dcd83380)
+![image](https://github.com/user-attachments/assets/a2f93c90-6893-45ad-941b-52f408eed178)
+![image](https://github.com/user-attachments/assets/4e2606db-5623-4b33-aae1-f165d1d521ad)
+
+
 
 
 

@@ -137,6 +137,73 @@
 ![image](https://github.com/user-attachments/assets/8ad930bb-4ef1-4e9e-bd07-ecbc7f68c40b)
 ![image](https://github.com/user-attachments/assets/e13b41b2-12b4-463e-ac8e-b6ceac292ca6)
 ![image](https://github.com/user-attachments/assets/bb65290b-f695-45e2-8320-a11743ad4b43)
+![image](https://github.com/user-attachments/assets/266369d9-4637-45e2-9380-2bf2b34670b5)
+![image](https://github.com/user-attachments/assets/eb13a2da-61de-4234-8e09-d540ae15707b)
+![image](https://github.com/user-attachments/assets/9ed6a624-bbdc-44c8-834f-bdc587af2849)
+![image](https://github.com/user-attachments/assets/703592df-0f61-44da-b214-291138ae7d21)
+![image](https://github.com/user-attachments/assets/034b0451-5d02-46d5-9521-15b537267387)
+![image](https://github.com/user-attachments/assets/f3991bc7-01be-47e2-b45e-9ab15ee6c647)
+![image](https://github.com/user-attachments/assets/d4d20b3e-7e75-4b06-a4de-d5fda1156df4)
+![image](https://github.com/user-attachments/assets/a77ab343-04b3-46e5-b804-03d18d335b3c)
+![image](https://github.com/user-attachments/assets/adec1795-674c-4405-b39d-9627a361d1f5)
+![image](https://github.com/user-attachments/assets/04e34f96-2898-4592-8622-1df238d24e3a)
+![image](https://github.com/user-attachments/assets/72192c9e-0a53-4079-b4f2-6933c670b9c9)
+![image](https://github.com/user-attachments/assets/13f1382c-687d-41d8-8ccf-7122a1b17870)
+![image](https://github.com/user-attachments/assets/dc2dc83a-8bfa-4505-b6b5-84d84c2e7a90)
+![image](https://github.com/user-attachments/assets/75b33466-5ce2-4772-907a-b991d39f1869)
+![image](https://github.com/user-attachments/assets/9dd4989a-c6d6-4f27-849f-d8d787a01633)
+![image](https://github.com/user-attachments/assets/4c98b2a3-0ce0-46cd-8bbe-b03af3ace50a)
+![image](https://github.com/user-attachments/assets/f195a23e-0c90-4eb7-8c3d-dad3cb3b7157)
+![image](https://github.com/user-attachments/assets/21dcc1ca-f3d8-4eb1-a646-b21bf523d001)
+![image](https://github.com/user-attachments/assets/d01ce408-da29-4ee7-aa23-8241de3987eb)
+![image](https://github.com/user-attachments/assets/ecad23b2-85c0-4f76-aa7e-832ebf27ca84)
+![image](https://github.com/user-attachments/assets/1d427f59-1ad0-4a33-8470-6ae5be1f62b5)
+![image](https://github.com/user-attachments/assets/40eb4e88-018c-4f25-b711-5cb9d5938924)
+![image](https://github.com/user-attachments/assets/00c47370-e139-4a15-a94e-b477ba01dddf)
+![image](https://github.com/user-attachments/assets/46eb887c-67d9-4b90-aaeb-8a843399c2de)
+![image](https://github.com/user-attachments/assets/555f6b38-4f1c-4334-803b-930597252a9a)
+![image](https://github.com/user-attachments/assets/8f1eab46-8d2c-42a9-a0c3-2848d967246e)
+![image](https://github.com/user-attachments/assets/0725e570-6eb4-4363-aca8-555e93668bdc)
+![image](https://github.com/user-attachments/assets/c4c703cf-81e9-40d2-b629-c16cf25338e0)
+![image](https://github.com/user-attachments/assets/8862b875-8c6d-4b6f-8dd1-405a219fc078)
+![image](https://github.com/user-attachments/assets/ac910c1b-0a2b-4ab6-ad18-da6860c6f221)
+![image](https://github.com/user-attachments/assets/9e2ccfdc-eb55-4f99-a0af-84b4347fa894)
+![image](https://github.com/user-attachments/assets/0c879ecf-7430-4565-ac4c-55f67f4abc48)
+![image](https://github.com/user-attachments/assets/83d1a283-77fb-4dc2-a9ab-6d96c48b10e0)
+![image](https://github.com/user-attachments/assets/2de9f4e8-654a-4659-a6d9-f24b6b8d3b7a)
+![image](https://github.com/user-attachments/assets/1d741bb3-2ad4-4379-9c0d-e6c85646a813)
+![image](https://github.com/user-attachments/assets/ead27518-6ba0-430e-9486-65e2e251354f)
+![image](https://github.com/user-attachments/assets/93866f0a-b177-4def-a1dc-426732f83c5f)
+![image](https://github.com/user-attachments/assets/f553cc9e-715f-4eb4-99b8-5f770b3376b0)
+![image](https://github.com/user-attachments/assets/4fff7ac7-505c-4bc4-b731-04f0d462a8b8)
+![image](https://github.com/user-attachments/assets/6bfd4938-6608-47b5-8cb5-8e501588e62b)
+![image](https://github.com/user-attachments/assets/f64e618a-ea20-49f6-beea-b0fda6538c16)
+![image](https://github.com/user-attachments/assets/326b0b63-b4c8-4f3e-9b51-2fd2c581e18c)
+![image](https://github.com/user-attachments/assets/91bbce89-1867-4df4-a75a-d132a38d5604)
+![image](https://github.com/user-attachments/assets/72bc569c-dee8-4999-942d-fcd39c20cb35)
+![image](https://github.com/user-attachments/assets/e79ae04f-3def-425a-8f5d-4da7ed04889a)
+![image](https://github.com/user-attachments/assets/7cce5129-b77e-43ac-822f-9f60dcebe1a5)
+![image](https://github.com/user-attachments/assets/71962991-8405-4e5f-a8ef-8d05bb1bdc15)
+![image](https://github.com/user-attachments/assets/1a686dad-63ed-4a24-bd15-18a35e44e65d)
+![image](https://github.com/user-attachments/assets/32681ddb-a51f-4a27-bd36-f900275445d6)
+![image](https://github.com/user-attachments/assets/1944c3b0-2695-456d-bd71-148224b544f6)
+![image](https://github.com/user-attachments/assets/48c7bb9b-4cae-4673-978c-e6b19b3da66e)
+![image](https://github.com/user-attachments/assets/373d72c8-a6ab-4c75-9d19-1dade5807e44)
+![image](https://github.com/user-attachments/assets/d30eed88-f6ca-4c28-8b5d-d8a46c9f0c97)
+![image](https://github.com/user-attachments/assets/cf6c6ba3-2f69-49b3-9b6b-587c6aede1a2)
+![image](https://github.com/user-attachments/assets/248dd185-2a9a-4732-8644-001d6e661d63)
+![image](https://github.com/user-attachments/assets/921f04e1-eb13-467c-bac9-d33e45d9249e)
+![image](https://github.com/user-attachments/assets/0ca9d38b-4c3e-4fa0-a036-6f53330ccf74)
+![image](https://github.com/user-attachments/assets/6cea3443-c942-44ab-9635-5189e54735c1)
+![image](https://github.com/user-attachments/assets/ff2cd0a7-7929-4c64-9a32-c00df0295177)
+![image](https://github.com/user-attachments/assets/c8eac6af-abe5-4b06-b372-bd1b4eefce12)
+![image](https://github.com/user-attachments/assets/f21ab070-0076-4108-abd6-804ecade6f8c)
+![image](https://github.com/user-attachments/assets/0bdf55c4-ef83-45ac-a614-70f4f4cf4590)
+
+
+
+
+
 
 
 
@@ -164,6 +231,25 @@ prompt begin with  - - imagine
 -   Create a series of 5 artworks in the style of anime portraits focusing on color schemes , composition, and thematic elements.
 -   imagine anime portraits including elements like cartoonish backgrounds and red color palettes .
 -   Create a geometric pattern for fashion fabric .
+-   magine A header photo for Twitter with black background and puppies --ar 3:1
+-    imagine LinkedIn background photo in red and pink with text : MidJourney Pro --ar 4:1
+-    imagine inspirational quote Stories for Instagram in modern style and vibrant colors --ar 9:16.
+-    imagine A scenic landscape - brightness 20 .
+-    imagine : A portrait of a person --edit remove blemishes --value 5 .
+-     imagine A black cat --c 10 .
+- imagine A black cat --chaos 50 .
+- imagine An orange cat --chaos 1.
+- imagine A detailed floral pattern with intertwining vines and flowers .
+-  imagine prompt: a seamless mosaic pattern with intricate details.
+-  imagine a scenic landscape --ar 16:9 .
+-  imagine A futuristic cityscape --Sref link s 750 --ar 9- - 16.
+-  imagine face cream in --style raw-40y09zAC5QCN
+-  imagine A motivational illustration for blog header using bright colors, cheerful characters , and a sunny background with the text: "Start Your Day with a Smile!".
+-  imagine A health and wellness illustration for fitness with integrated text: "Stay Active, Stay Healthy!".
+-  Create a engaging illustration for blog post summary to boost engagement with the text: "Productivity Hacks" .
+
+
+
 
 
 

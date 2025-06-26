@@ -260,6 +260,22 @@ prompt begin with  - - imagine
 ![image](https://github.com/user-attachments/assets/23eca15f-4110-4c42-88e6-19a0dcd83380)
 ![image](https://github.com/user-attachments/assets/a2f93c90-6893-45ad-941b-52f408eed178)
 ![image](https://github.com/user-attachments/assets/4e2606db-5623-4b33-aae1-f165d1d521ad)
+![image](https://github.com/user-attachments/assets/44eaf1c1-cfcd-4b0a-81c0-e1c17cd1277d)
+![image](https://github.com/user-attachments/assets/d3222014-92ea-408b-8f50-525732c0bf98)
+![image](https://github.com/user-attachments/assets/e179ee6a-ff30-4f42-86c1-844b07d5b15b)
+![image](https://github.com/user-attachments/assets/31b048b3-6918-4d4f-a21d-2bf673031e35)
+![image](https://github.com/user-attachments/assets/43891d6b-ca66-4efd-a21e-c233087438f4)
+![image](https://github.com/user-attachments/assets/a3860645-9182-4a8a-9631-43c6f3b20dfa)
+![image](https://github.com/user-attachments/assets/5b8f3db9-5e4d-4a84-8a57-ee599f3e4a90)
+![image](https://github.com/user-attachments/assets/bb8fb213-9389-46d5-9bd0-2295f1704403)
+![image](https://github.com/user-attachments/assets/eb83e343-005e-43a5-8ea8-fe35cb8482f9)
+![image](https://github.com/user-attachments/assets/f621dc99-b636-4686-af82-7ef23a4a29f7)
+![image](https://github.com/user-attachments/assets/6fdbb5c4-ee84-4f38-97c5-9e83f6b3b3da)
+![image](https://github.com/user-attachments/assets/a34f5cd9-9c82-4513-aff9-3536450ed17d)
+![image](https://github.com/user-attachments/assets/b45ba71a-a037-4950-9716-d1d658a190aa)
+![image](https://github.com/user-attachments/assets/0f0c7912-8538-428a-8a66-32140f812c92)
+![image](https://github.com/user-attachments/assets/81a9d1b7-7965-4722-8959-725d385a30ee)
+![Uploading image.png…]()
 
 
 

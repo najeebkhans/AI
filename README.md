@@ -275,7 +275,8 @@ prompt begin with  - - imagine
 ![image](https://github.com/user-attachments/assets/b45ba71a-a037-4950-9716-d1d658a190aa)
 ![image](https://github.com/user-attachments/assets/0f0c7912-8538-428a-8a66-32140f812c92)
 ![image](https://github.com/user-attachments/assets/81a9d1b7-7965-4722-8959-725d385a30ee)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6b14e457-5474-480d-a483-a7a5377ccc87)
+
 
 
 
